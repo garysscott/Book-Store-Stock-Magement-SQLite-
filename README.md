@@ -11,8 +11,8 @@ Here was the task I was set:
 
 Follow these steps:
 
- Create a program that can be used by a bookstore clerk. The program
-should allow the clerk to:
+Create a program that can be used by a bookstore clerk. The program should allow the clerk to:
+
     ○ add new books to the database
     ○ update book information
     ○ delete books from the database
