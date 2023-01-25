@@ -1,6 +1,6 @@
 # Book-Store-Stock-Management-SQLite-
 
-<h2>Project Description</h2>
+<h2>Project Description </h2>
 I created this project in relation to a task I had been set on my Software Engineering Bootcamp.
 
 The program uses object orientated programming to create an effective stock management system for a shoe shop.
