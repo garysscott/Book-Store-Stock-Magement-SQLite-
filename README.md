@@ -7,7 +7,7 @@ The program uses object orientated programming to create an effective stock mana
 
 Here was the task I was set:
 
-<h2>Compulsory Task</h2>
+<h2> Compulsory Task</h2>
 
 Follow these steps:
 
